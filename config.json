@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Shares (e.g., Facebook posts or links)",
-    "colorLabel": "Modularity (i.e., algorithmically identified related clusters",
+    "colorLabel": "Modularity (i.e., algorithmically identified related clusters)",
     "nodeLabel": "FB Pages/Groups"
   },
   "features": {
