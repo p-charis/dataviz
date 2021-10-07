@@ -5,16 +5,16 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "Charis P."
+    "text": "Charis Papaevangelou / PhD Candidate @ LERASS Université Toulouse Paul Sabatier & JOLT ETN"
   },
   "text": {
-    "more": "Incoming",
-    "intro": "Incoming\t\t",
-    "title": "Greek Facebook Community re Vaccines"
+    "more": "Data source: CrowdTangle",
+    "intro": "3912 unique Facebook Groups & Pages (nodes) | 4225 links (edges) | 970 unique domains",
+    "title": "Greek Facebook Community re Vaccines (07/02/2020-03/10/2021); keywords: εμβολιο, εμβολια, εμβολιασμος, εμβολιασμοι"
   },
   "legend": {
-    "edgeLabel": "Shares",
-    "colorLabel": "Modularity ",
+    "edgeLabel": "Shares (e.g., Facebook posts or links)",
+    "colorLabel": "Modularity (i.e., algorithmically identified related clusters",
     "nodeLabel": "FB Pages/Groups"
   },
   "features": {
